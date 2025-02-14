@@ -1,2 +1,2 @@
-#  Novel Metric Design for Multi-Domain Fairness in Transformer-based NLP Models
+# Novel Metric Design for Fairness in Multi-Domain Moral Sentiment Classification using Transformer-Based Models
 Here I start my Master thesis project. 
