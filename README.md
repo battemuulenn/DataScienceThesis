@@ -13,7 +13,7 @@
 - **Paper**: Hoover et al., 2020 – *Moral Foundations Twitter Corpus: A Collection of 35k Tweets Annotated for Moral Sentiment*  
   [https://psyarxiv.com/w4f72](https://psyarxiv.com/w4f72)
 
-  ### `Dataset/`
+### `Dataset/`
 Contains the raw and unprocessed datasets used for model training, evaluation and novel fairness metric design exploration. Only the MFTC dataset is available in this folder, because the MFRC data can be pulled from the HuggingFace.
 
   ### `clean_data_for_experiments/`
