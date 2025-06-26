@@ -12,3 +12,7 @@
 - **Source**: [https://osf.io/k5n7y/](https://osf.io/k5n7y/)
 - **Paper**: Hoover et al., 2020 – *Moral Foundations Twitter Corpus: A Collection of 35k Tweets Annotated for Moral Sentiment*  
   [https://psyarxiv.com/w4f72](https://psyarxiv.com/w4f72)
+
+  ### `data/`
+Contains the raw and unprocessed datasets used for model training, evaluation and novel fairness metric design exploration.
+
